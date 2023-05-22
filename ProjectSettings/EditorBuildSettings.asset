@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Select Mode.unity
+    guid: 624d1b997b81c624c9b733ddf0d21d6e
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Select Difficulty.unity
+    guid: c9e07326b37516e4b858860d83336992
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Player VS Com(Easy).unity
+    guid: 72a1c326ce4e135429df74fcbb88620b
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Player VS Com(Med).unity
+    guid: 44702ad7ac3f48d48837b09518681938
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Player VS Com(Hard).unity
+    guid: 43bbb606ec162a347991b365004a87d1
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Victory.unity
+    guid: 404697d9126ec3849bdfc9ac14f45e67
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSCom/Game Over.unity
+    guid: ab3671ef37486164ca27a17c6d03fca9
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSPlayer/Player VS Player.unity
+    guid: 85eb88325d2baa54db5fdf4ea06297ce
+  - enabled: 1
+    path: Assets/Scenes/PlayerVSPlayer/Game Over.unity
+    guid: c522850fb066f8f4aa07cd51362f42d8
+  m_configObjects: {}
